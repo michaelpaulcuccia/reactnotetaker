@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactjsnotetaker/static/css/main.db903ed9.chunk.css",
+    "main.js": "/reactjsnotetaker/static/js/main.a1de296c.chunk.js",
+    "main.js.map": "/reactjsnotetaker/static/js/main.a1de296c.chunk.js.map",
+    "runtime-main.js": "/reactjsnotetaker/static/js/runtime-main.fd3c3df2.js",
+    "runtime-main.js.map": "/reactjsnotetaker/static/js/runtime-main.fd3c3df2.js.map",
+    "static/js/2.07cab67c.chunk.js": "/reactjsnotetaker/static/js/2.07cab67c.chunk.js",
+    "static/js/2.07cab67c.chunk.js.map": "/reactjsnotetaker/static/js/2.07cab67c.chunk.js.map",
+    "index.html": "/reactjsnotetaker/index.html",
+    "precache-manifest.f97cd74e98a3043d0f4fc5d5bd226322.js": "/reactjsnotetaker/precache-manifest.f97cd74e98a3043d0f4fc5d5bd226322.js",
+    "service-worker.js": "/reactjsnotetaker/service-worker.js",
+    "static/css/main.db903ed9.chunk.css.map": "/reactjsnotetaker/static/css/main.db903ed9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd3c3df2.js",
+    "static/js/2.07cab67c.chunk.js",
+    "static/css/main.db903ed9.chunk.css",
+    "static/js/main.a1de296c.chunk.js"
+  ]
+}
